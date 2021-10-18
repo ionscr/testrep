@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Amdaris\\Version control tema\\testrep\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Amdaris\\Version control tema\\testrep2\\testrep\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Amdaris\\Version control tema\\testrep\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Amdaris\\Version control tema\\testrep2\\testrep\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Amdaris\\Version control tema\\testrep\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Amdaris\\Version control tema\\testrep2\\testrep\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Amdaris\\Version control tema\\testrep\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Amdaris\\Version control tema\\testrep2\\testrep\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Amdaris\\Version control tema\\testrep\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Amdaris\\Version control tema\\testrep2\\testrep\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
