@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             String s = "firstString";
+            String e = "secondString";
             Console.WriteLine(s);
         }
     }
